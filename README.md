@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xM1nDHunter
+- 👋 Hi, I’m Bruno Cabrita
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C# and JavaScript
 - 📫 How to reach me via email bruno.ferreira.cabrita@formandos.cinel.pt
