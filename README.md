@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bruno Cabrita</h1>
 <h3 align="center">A developer from Portugal</h3>
 
+<div>
+  <a href="https://github.com/xM1nDHunter">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=xM1nDHunter&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+
 - 🔭 I’m currently working on [ClinicaVetWebApp](https://github.com/xM1nDHunter/ClinicaVetWebApp)
 
 - 🌱 I’m currently learning **C#, ASP.NET MVC , EntityFramework**
