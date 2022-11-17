@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Cabrita</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xm1ndhunter&label=Profile%20views&color=0e75b6&style=flat" alt="xm1ndhunter" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xm1ndhunter" alt="xm1ndhunter" /></a> </p>
+<h3 align="center">A developer from Portugal</h3>
 
 - 🔭 I’m currently working on [ClinicaVetWebApp](https://github.com/xM1nDHunter/ClinicaVetWebApp)
 
